@@ -8,7 +8,6 @@ A privacy-hardened, debloated, gaming-optimised Windows 11 image.
 - Privacy & telemetry configuration
 - System debloat
 - Gaming & latency tuning
-- NIC optimisation
 - Custom branding
 
 ## License
